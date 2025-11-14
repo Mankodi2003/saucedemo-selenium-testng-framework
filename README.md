@@ -97,8 +97,7 @@ This repository showcases a **production-ready Selenium Test Automation Framewor
 ┃ ┣ 📂 pages              # Page Object Classes
 ┃ ┃ ┣ 📄 LoginPage.java
 ┃ ┃ ┣ 📄 ProductsPage.java
-┃ ┃ ┣ 📄 CartPage.java
-┃ ┃ ┗ 📄 CheckoutPage.java
+┃ ┃ ┣ 📄 CartAndCheckoutPage.java
 ┃ ┗ 📂 utils              # Utility Classes
 ┃   ┣ 📄 ScreenshotUtil.java
 ┃   ┗ 📄 ExtentReportManager.java
@@ -106,7 +105,7 @@ This repository showcases a **production-ready Selenium Test Automation Framewor
 ┃ ┗ 📂 tests              # Test Classes
 ┃   ┣ 📄 LoginTest.java
 ┃   ┣ 📄 ProductTest.java
-┃   ┗ 📄 CheckoutTest.java
+┃   ┗ 📄 CartAndCheckoutTest.java
 ┣ 📂 reports              # HTML Reports (Auto-generated)
 ┣ 📂 screenshots          # Failure Screenshots
 ┣ 📄 testng.xml           # TestNG Configuration
