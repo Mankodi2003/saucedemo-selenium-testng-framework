@@ -72,7 +72,6 @@ Covers:
 
 <img src="https://github.com/Mankodi2003/OrangeHRM_Automation_Excel/blob/main/blob/main/assets/folder_structure.jpg" width="600" alt="Folder Structure"/>
 
-
 ---
 
 ## 🔧 **Tech Stack & Tools**
@@ -102,6 +101,8 @@ mvn clean install
 mvn test
 
 4️⃣ View Reports
+
+---
 
 📌 Extent Report generated at:
 
