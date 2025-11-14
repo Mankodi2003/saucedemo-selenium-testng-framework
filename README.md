@@ -65,7 +65,7 @@ Covers:
 
 ## 📁 **Project Structure**
 
-<img src="https://github.com/Mankodi2003/saucedemo_selenium_testng_framework/blob/main/blob/main/assets/folder_structure.jpg" width="600" alt="Folder Structure"/>
+<img src="https://github.com/Mankodi2003/saucedemo-selenium-testng-framework/blob/main/blob/main/assets/project_folder_structure.jpg" width="600" alt="Folder Structure"/>
 
 ---
 
