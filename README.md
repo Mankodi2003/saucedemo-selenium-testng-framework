@@ -374,8 +374,8 @@ graph LR
 ### If you find this framework helpful, please consider:
 
 [![Star](https://img.shields.io/github/stars/Mankodi2003/saucedemo-selenium-testng-framework?style=social)](https://github.com/Mankodi2003/saucedemo-selenium-testng-framework)
-[![Fork](https://img.shields.io/github/forks/Mankodi2003/saucedemo-selenium-testng-framework?style=social)](https://github.com/YOUR-USERNAME/saucedemo-selenium-testng-framework/fork)
-[![Watch](https://img.shields.io/github/watchers/Mankodi2003/saucedemo-selenium-testng-framework?style=social)](https://github.com/YOUR-USERNAME/saucedemo-selenium-testng-framework)
+[![Fork](https://img.shields.io/github/forks/Mankodi2003/saucedemo-selenium-testng-framework?style=social)](https://github.com/Mankodi2003/saucedemo-selenium-testng-framework/fork)
+[![Watch](https://img.shields.io/github/watchers/Mankodi2003/saucedemo-selenium-testng-framework?style=social)](https://github.com/Mankodi2003/saucedemo-selenium-testng-framework)
 
 ### 🌟 Give it a Star | 🍴 Fork it | 📢 Share it
 
