@@ -26,7 +26,6 @@
 
 - [✨ Overview](#-overview)
 - [🎯 Key Features](#-key-features)
-- [📁 Project Architecture](#-project-architecture)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [⚡ Quick Start](#-quick-start)
 - [🧪 Test Coverage](#-test-coverage)
