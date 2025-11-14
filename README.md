@@ -1,8 +1,3 @@
-<!-- PROJECT BANNER -->
-<p align="center">
-  <img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/selenium.svg" width="120" />
-</p>
-
 <h1 align="center">🚀 SauceDemo Selenium Automation Framework</h1>
 
 <p align="center">
@@ -70,7 +65,7 @@ Covers:
 
 ## 📁 **Project Structure**
 
-<img src="https://github.com/Mankodi2003/OrangeHRM_Automation_Excel/blob/main/blob/main/assets/folder_structure.jpg" width="600" alt="Folder Structure"/>
+<img src="https://github.com/Mankodi2003/saucedemo_selenium_testng_framework/blob/main/blob/main/assets/folder_structure.jpg" width="600" alt="Folder Structure"/>
 
 ---
 
