@@ -101,7 +101,7 @@ This repository showcases a **production-ready Selenium Test Automation Framewor
 <br><b>Selenium</b>
 </td>
 <td align="center" width="96">
-<img src="https://www.svgrepo.com/svg/373829/maven" width="48" height="48" alt="Maven" />
+<img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
 <br><b>Maven</b>
 </td>
 <td align="center" width="96">
