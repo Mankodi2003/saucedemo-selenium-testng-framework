@@ -117,10 +117,6 @@ saucedemo-selenium-testng-framework/
 ```
 </div>
 
-<div align="center">
-<img src="https://github.com/Mankodi2003/saucedemo-selenium-testng-framework/blob/main/blob/main/assets/project_folder_structure.jpg" width="600" alt="Project Structure"/>
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
