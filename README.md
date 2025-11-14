@@ -90,28 +90,31 @@ This repository showcases a **production-ready Selenium Test Automation Framewor
 ## 📁 Project Architecture
 
 <div align="center">
-
 ```
-📦 saucedemo-selenium-testng-framework
-┣ 📂 src/main/java
-┃ ┣ 📂 pages              # Page Object Classes
-┃ ┃ ┣ 📄 LoginPage.java
-┃ ┃ ┣ 📄 ProductsPage.java
-┃ ┃ ┣ 📄 CartAndCheckoutPage.java
-┃ ┗ 📂 utils              # Utility Classes
-┃   ┣ 📄 ScreenshotUtil.java
-┃   ┗ 📄 ExtentReportManager.java
-┣ 📂 src/test/java
-┃ ┗ 📂 tests              # Test Classes
-┃   ┣ 📄 LoginTest.java
-┃   ┣ 📄 ProductTest.java
-┃   ┗ 📄 CartAndCheckoutTest.java
-┣ 📂 reports              # HTML Reports (Auto-generated)
-┣ 📂 screenshots          # Failure Screenshots
-┣ 📄 testng.xml           # TestNG Configuration
-┗ 📄 pom.xml              # Maven Dependencies
+saucedemo-selenium-testng-framework/
+│
+├── 📂 src/main/java/
+│   ├── 📂 pages/                          # Page Object Classes
+│   │   ├── 📄 LoginPage.java
+│   │   ├── 📄 ProductsPage.java
+│   │   ├── 📄 CartAndCheckoutPage.java
+│   │   └── 📄 CheckoutPage.java
+│   │
+│   └── 📂 utils/                          # Utility Classes
+│       ├── 📄 ScreenshotUtil.java
+│       └── 📄 ExtentReportManager.java
+│
+├── 📂 src/test/java/
+│   └── 📂 tests/                          # Test Classes
+│       ├── 📄 LoginTest.java
+│       ├── 📄 ProductTest.java
+│       └── 📄 CartAndCheckoutTest.java
+│
+├── 📂 reports/                            # HTML Reports (Auto-generated)
+├── 📂 screenshots/                        # Failure Screenshots
+├── 📄 testng.xml                          # TestNG Configuration
+└── 📄 pom.xml                             # Maven Dependencies
 ```
-
 </div>
 
 <div align="center">
